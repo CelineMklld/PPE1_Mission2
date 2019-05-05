@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestionClotureGSB</name>
+    </assembly>
+    <members>
+        <member name="M:GestionClotureGSB.DatabaseConnection.#ctor(System.String)">
+            <summary>
+            Méthode "databaseConnection" : se connecte à la base de données 
+            </summary>
+            <param name="connectionString"></param>
+        </member>
+        <member name="M:GestionClotureGSB.DatabaseConnection.adminRequest(System.String)">
+            <summary>
+            Méthode "adminRequest" : exécute des requêtes d’administration dans la base de données (en SQL)
+            </summary>
+            <param name="sqlRequest"> Paramètre de requêtes d'exécution dans la BDD : insert, update, delete </param>
+        </member>
+        <member name="M:GestionClotureGSB.DatabaseConnection.getFromDb(System.String)">
+            <summary>
+            Méthode "getFromDb" : récupère des données de la base de données (en SQL)
+            </summary>
+            <param name="sqlRequest"> Paramètre de requête de récupération de données de la BDD </param>
+            <returns></returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.getMoisPrecedent">
+            <summary>
+            Méthode « getMoisPrecedent » : récupère le mois précédent par rapport à la date actuelle
+            </summary>
+            <returns> Retourne le mois précédent par rapport à la date actuelle </returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.getMoisPrecedent(System.DateTime)">
+            <summary>
+            Méthode « getMoisPrecedent » : récupère le mois précédent par rapport à une date aléatoire
+            </summary>
+            <param name="date"> Date dont on veut obtenir le mois précédent </param>
+            <returns> Retourne le mois précédent par rapport à la date en paramètre </returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.getMoisSuivant">
+            <summary>
+            Méthode « getMoisSuivant » : récupère le mois suivant par rapport à la date actuelle
+            </summary>
+            <returns> Retourne le mois suivant par rapport à la date actuelle </returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.getMoisSuivant(System.DateTime)">
+            <summary>
+            Méthode « getMoisSuivant » : récupère le mois suivant par rapport à une date aléatoire
+            </summary>
+            <param name="date"> Date dont on veut obtenir le mois suivant </param>
+            <returns> Retourne le mois suivant par rapport à la date en paramètre </returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.entre(System.Int32,System.Int32)">
+            <summary>
+            Méthode booléenne « entre » : avec jour actuel entre 2 dates 
+            </summary>
+            <param name="jourUn"> Premier jour de la fourchette de dates </param>
+            <param name="jourDeux"> Dernier jour de la fourchette de dates </param>
+            <returns> Retourne le jour actuel entre les 2 jours en paramètre </returns>
+        </member>
+        <member name="M:GestionClotureGSB.gestionDates.entre(System.DateTime,System.Int32,System.Int32)">
+            <summary>
+            Méthode booléenne « entre » : avec jour aléatoire entre 2 dates
+            </summary>
+            <param name="date"> Date comprise entre la fourchette des 2 jours </param>
+            <param name="jourUn"> Premier jour de la fourchette de dates </param>
+            <param name="jourDeux"> Dernier jour de la fourchette de dates </param>
+            <returns> Retourne un jour entre les 2 jours en paramètre </returns> 
+        </member>
+        <member name="M:GestionClotureGSB.Program.Main(System.String[])">
+            <summary>
+            Méthode "main" : exécution des modifications de BDD à apporter 
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>
