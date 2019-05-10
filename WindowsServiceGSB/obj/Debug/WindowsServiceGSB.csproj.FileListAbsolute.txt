@@ -1,0 +1,13 @@
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe.config
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.pdb
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.Service1.resources
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.csproj.GenerateResource.cache
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.exe
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.pdb
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.ProjectInstaller.resources
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\MySql.Data.dll
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\MySql.Data.xml
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\obj\Debug\WindowsServiceGSB.csproj.CopyComplete
+C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\doc.xml

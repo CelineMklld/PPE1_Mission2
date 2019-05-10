@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WindowsServiceGSB</name>
+    </assembly>
+    <members>
+        <member name="M:WindowsServiceGSB.DatabaseConnection.#ctor(System.String)">
+            <summary>
+            Méthode "databaseConnection" : se connecte à la base de données
+            </summary>
+            <param name="connectionString"></param>
+        </member>
+        <member name="M:WindowsServiceGSB.DatabaseConnection.adminRequest(System.String)">
+            <summary>
+            Méthode "adminRequest" : exécute des requêtes d’administration dans la base de données (en SQL)
+            </summary>
+            <param name="sqlRequest"> Paramètre de requêtes d'exécution dans la BDD : insert, update, delete </param>
+        </member>
+        <member name="M:WindowsServiceGSB.DatabaseConnection.getFromDb(System.String)">
+            <summary>
+            Méthode "getFromDb" : récupère des données de la base de données (en SQL)
+            </summary>
+            <param name="sqlRequest"> Paramètre de requête de récupération de données de la BDD </param>
+            <returns></returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.getMoisPrecedent">
+            <summary>
+            Méthode « getMoisPrecedent » : récupère le mois précédent par rapport à la date actuelle
+            </summary>
+            <returns> Retourne le mois précédent par rapport à la date actuelle </returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.getMoisPrecedent(System.DateTime)">
+            <summary>
+            Méthode « getMoisPrecedent » : récupère le mois précédent par rapport à une date aléatoire
+            </summary>
+            <param name="date"> Date dont on veut obtenir le mois précédent </param>
+            <returns> Retourne le mois précédent par rapport à la date en paramètre </returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.getMoisSuivant">
+            <summary>
+            Méthode « getMoisSuivant » : récupère le mois suivant par rapport à la date actuelle
+            </summary>
+            <returns> Retourne le mois suivant par rapport à la date actuelle </returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.getMoisSuivant(System.DateTime)">
+            <summary>
+            Méthode « getMoisSuivant » : récupère le mois suivant par rapport à une date aléatoire
+            </summary>
+            <param name="date"> Date dont on veut obtenir le mois suivant </param>
+            <returns> Retourne le mois suivant par rapport à la date en paramètre </returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.entre(System.Int32,System.Int32)">
+            <summary>
+            Méthode booléenne « entre » : avec jour actuel entre 2 dates 
+            </summary>
+            <param name="jourUn"> Premier jour de la fourchette de dates </param>
+            <param name="jourDeux"> Dernier jour de la fourchette de dates </param>
+            <returns> Retourne le jour actuel entre les 2 jours en paramètre </returns>
+        </member>
+        <member name="M:WindowsServiceGSB.gestionDates.entre(System.DateTime,System.Int32,System.Int32)">
+            <summary>
+            Méthode booléenne « entre » : avec jour aléatoire entre 2 dates
+            </summary>
+            <param name="date"> Date comprise entre la fourchette des 2 jours </param>
+            <param name="jourUn"> Premier jour de la fourchette de dates </param>
+            <param name="jourDeux"> Dernier jour de la fourchette de dates </param>
+            <returns> Retourne un jour entre les 2 jours en paramètre </returns> 
+        </member>
+        <member name="F:WindowsServiceGSB.ProjectInstaller.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:WindowsServiceGSB.ProjectInstaller.Dispose(System.Boolean)">
+            <summary> 
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:WindowsServiceGSB.ProjectInstaller.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="F:WindowsServiceGSB.Service1.components">
+            <summary> 
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:WindowsServiceGSB.Service1.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:WindowsServiceGSB.Service1.InitializeComponent">
+            <summary> 
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas 
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:WindowsServiceGSB.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+    </members>
+</doc>

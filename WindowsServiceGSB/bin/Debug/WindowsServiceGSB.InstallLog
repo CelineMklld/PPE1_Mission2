@@ -1,0 +1,494 @@
+﻿Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe.
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe.
+Suppression du fichier InstallState, car aucun programme d'installation n'est présent.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Création d'une source EventLog GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Restauration de l'état précédent du journal des événements pour la source GSB.
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
+Installation du service GSB en cours...
+Le service GSB a été installé avec succès.
+Création d'une source EventLog GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.InstallLog
+   assemblypath = C:\Users\celin\OneDrive\Documents\BTS EPREUVE E4 2019\Mission 2 - Gestion de la clôture\GestionClotureGSB\WindowsServiceGSB\bin\Debug\WindowsServiceGSB.exe
